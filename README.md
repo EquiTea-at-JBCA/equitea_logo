@@ -5,5 +5,6 @@ To be used by the EquiTea committee at Jodrell Bank Centre for Astrophysics, Uni
 
 
 
-
-![EquiTea Logo](EquiTea_at_JBCA.png)
+<p align="center">
+   <img src="EquiTea_at_JBCA.png" alt="EquiTea-logo" widrg="300"/>
+</p>
